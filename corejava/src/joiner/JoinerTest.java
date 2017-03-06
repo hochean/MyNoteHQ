@@ -1,7 +1,10 @@
-import java.util.List;
+package joiner;
 
 import com.google.common.base.Joiner;
 import com.google.common.collect.Lists;
+
+import java.util.List;
+
 
 /**
  * Joiner拼接字符串

@@ -1,7 +1,4 @@
-package test.exception;
-
-import java.io.FileInputStream;
-import java.io.IOException;
+package exception;
 
 /**
  * @author HaoQ
@@ -58,7 +55,7 @@ public class TestException {
         /*
          * 执行结果
          * Exception in thread "main" java.lang.Exception: exception
-         * at test.exception.TestException.main(TestException.java:58)
+         * at exception.TestException.main(TestException.java:58)
          * ...
          *
          * 异常被抛出，并打印了堆栈信息

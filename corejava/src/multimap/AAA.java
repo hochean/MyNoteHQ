@@ -1,4 +1,4 @@
-package test.multimap;
+package multimap;
 
 /**
  * @author HaoQ

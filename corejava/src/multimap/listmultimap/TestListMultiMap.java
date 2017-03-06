@@ -1,4 +1,4 @@
-package test.multimap.listmultimap;
+package multimap.listmultimap;
 
 //import com.google.common.collect.ListMultimap;
 //import com.google.common.collect.Lists;

@@ -1,8 +1,8 @@
-package test.annotation;
+package annotation;
 
 import java.lang.reflect.Field;
 
-import test.annotation.AnnotationTest.TestAnnotation;
+import annotation.AnnotationTest.TestAnnotation;
 
 /**
  * @author HaoQ

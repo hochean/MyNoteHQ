@@ -1,6 +1,6 @@
-package test.annotation;
+package annotation;
 
-import test.annotation.AnnotationTest.TestAnnotation;
+import annotation.AnnotationTest.TestAnnotation;
 
 /**
  * @author HaoQ
